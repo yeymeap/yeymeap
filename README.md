@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yeymeap
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning HTML, CSS, JavaScript,
-- 💞️ I’m looking to collaborate on making websites 
+- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP and SQL
+- 💞️ I’m looking to collaborate on making websites
 - 📫 Contact me on Twitter or Discord!
 
 <!---
